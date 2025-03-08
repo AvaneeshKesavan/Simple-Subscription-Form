@@ -5,5 +5,5 @@ This is a subscription-form web application built with Node.js and Express.js. I
 Key Features:
 
 - Frontend styled with responsive design (HTML, CSS, and jQuery).
-- Backend powered by Express.js with an SQLite database for data storage.
+- Express.js powers the backend and has a SQLite database for data storage.
 - Supports dynamic rendering using EJS for form pages and subscriber lists.
